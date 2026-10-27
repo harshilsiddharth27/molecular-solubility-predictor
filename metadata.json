@@ -1,0 +1,6 @@
+{
+  "name": "Molecular Solubility Predictor",
+  "description": "A decoupled ML architecture predicting solubility using RDKit, FastAPI, and Next.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
